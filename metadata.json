@@ -1,0 +1,8 @@
+{
+  "name": "Fast3R Auto-AI Framework",
+  "description": "ระบบกู้คืน 3 มิติอัตโนมัติ ขับเคลื่อนด้วย Fast3R และ Gemini AI พร้อมการประมวลผลภาพ การปรับแต่งพารามิเตอร์ และการสร้างสื่อด้วย AI",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
